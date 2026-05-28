@@ -1,4 +1,4 @@
-# MONITOR.py — Monitor de Estabilidade de Internet
+# 🌐 MONITOR.py — Monitor de Estabilidade de Internet
 
 Monitor portátil de conectividade e utilitário de diagnóstico de rede escrito integralmente em Python puro. Não possui dependências externas — utiliza exclusivamente a biblioteca padrão do Python e comandos nativos do sistema operacional. Compatível com **Windows**, **Linux** e **macOS**.
 
